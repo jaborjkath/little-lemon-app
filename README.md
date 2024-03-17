@@ -1,4 +1,4 @@
-# figma-little-lemon-app
+# little-lemon-app
 
 This is my Learner Hands-on Project for Coursera Certificate Course "Principles of UX/UI Design" that I've completed last September 23, 2023.
 * Gained Skills: Web Design, Accessibility, Front-End Web Development, User Experience (UX)
